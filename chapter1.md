@@ -14,9 +14,9 @@ Androidのアプリは、個別に呼び出し可能な異なるコンポーネ�
 
 [アプリケーションの基礎](chapter1/session1.md)
 
-[インテントとインテントフィルタ](chapter1/session2.md)
+[インテントとインテントフィルタ](chapter3/session1.md)
 
-[アクティビティ](chapter1/session3.md)
+[アクティビティ](chapter3/session2.md)
 
 ###### 様々な端末に対応するアプリ
 
@@ -26,8 +26,8 @@ Androidは、さまざまな端末構成に対応したリソースを提供で�
 
 **詳細を見る**
 
-[端末の互換性](chapter2/session1.md)
+[端末の互換性](chapter1/session2.md)
 
-[リソースの概要](chapter2/session2.md)
+[リソースの概要](chapter4.md)
 
-[ユーザーインターフェースの概要](chapter2/session.md)
+[ユーザーインターフェースの概要](chapter6.md)
